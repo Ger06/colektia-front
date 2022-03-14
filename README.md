@@ -8,7 +8,8 @@ Clonar el repo. Una vez que estes en la ruta donde lo clonaste hace npm install
 
 ### Para inicializar
 ```
-Luego de hacer npm install y tener todas las depencias instaladas hace npm run serve. Y abrí en navegador del puerto que tu consola te indica
+Luego de hacer npm install y tener todas las depencias instaladas hace npm run serve. Y abrí en navegador del 
+puerto que tu consola te indica
 ```
 
 
