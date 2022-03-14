@@ -4,13 +4,15 @@ Vas poder crear tu usuario y buscar películas con todas las críticas hechas po
 ## Para correr el proyecto
 
 Clonar el repo. Una vez que estes en la ruta donde lo clonaste hace 
-```npm install
+```
+npm install
 ```
 
 ### Para inicializar
 
 Luego de hacer npm install y tener todas las depencias instaladas hace
-```  npm run serve
+``` 
+npm run serve
 ```
 Y abrí en navegador del puerto que tu consola te indica
 
