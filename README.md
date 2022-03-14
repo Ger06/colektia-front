@@ -1,8 +1,9 @@
 # colekt-front
+Vas poder crear tu usuario y buscar criticas de películas. Si la pelicula no esta en la base de datos podes agregarla vos junto tu crítica.
 
-## Project setup
+## Para correr el proyect
 ```
-npm install
+Clonar el repo. Una vez que estes en la ruta donde lo clonaste hace npm install
 ```
 
 ### Compiles and hot-reloads for development
