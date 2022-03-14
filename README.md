@@ -6,20 +6,9 @@ Vas poder crear tu usuario y buscar películas con todas las críticas hechas po
 Clonar el repo. Una vez que estes en la ruta donde lo clonaste hace npm install
 ```
 
-### Compiles and hot-reloads for development
+### Para inicializar
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+Luego de hacer npm install y tener todas las depencias instaladas hace npm run serve. Y abrí en navegador del puerto que tu consola te indica
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
